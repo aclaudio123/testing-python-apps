@@ -1,4 +1,4 @@
-# A post program representing a single post that goes into a blog
+# A post class representing a single post that goes into blog
 # A post has two properties, a title and content
 
 
